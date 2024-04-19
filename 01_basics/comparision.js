@@ -8,3 +8,8 @@ console.log(null > 0);
 console.log(null == 0);
 console.log(null >= 0);
 
+//types of memory
+
+//Stack(Primitive),  Heap(Non-Primitive)
+
+
